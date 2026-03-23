@@ -3,7 +3,7 @@
 
 ## 🎯 Overview
 This project is a 2D Metroidvania exploration game developed over 3 months. It features a scalable code architecture designed to handle complex player movements, modular enemy AI, and a seamless world transition system.
-
+> **Check out the project in action: [Video Demo Link](https://drive.google.com/drive/folders/1ib4eBG8T-NzTR27gZ0C1tJ9wy4PxJAOq?usp=drive_link)**
 ## 🚀 Technical Highlights
 
 ### 1. Robust State Machine System (FSM)
