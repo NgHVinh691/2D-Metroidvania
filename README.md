@@ -4,7 +4,7 @@
 This project is a 2D Metroidvania built in Unity, focusing on **Finite State Machine (FSM)** architecture and **Gameplay Balancing**.
 
 ## 🎥 Gameplay & Testing Demo
-[Kéo thả video demo hoặc dán link YouTube của bạn vào đây]
+https://youtu.be/bepntIV-zMw
 
 ## 🛠 Key Responsibilities (QA & Balancing)
 As the **QA Tester & Game Balancer**, I focused on:
@@ -18,4 +18,4 @@ As the **QA Tester & Game Balancer**, I focused on:
 - **Systems:** Custom Scene Management and Data Persistence.
 
 ## 🐞 Sample Bug Report
-Check out my bug tracking board: [Dán link Trello/Google Sheets của bạn ở đây]
+Check out my bug tracking board: https://docs.google.com/spreadsheets/d/1wvdKFAIODcVoS9-YxLAKU_inBBD2NtZYjVpxMnHqP0g/edit?usp=sharing
